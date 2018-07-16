@@ -1,6 +1,9 @@
 # AI
 AI와 관련된 정보들을 정리하고 있습니다. 
 
+#201807024 Azure Live HOL(Hands On Labs)
+
+
 # 관련 서비스 링크
 [Microsoft Cognitive Toolkit](https://www.microsoft.com/en-us/cognitive-toolkit/)<br>
 [Microsoft Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/)<br>
