@@ -1,6 +1,9 @@
 # AI
 AI와 관련된 정보들을 정리하고 있습니다. 
 
+#공유자료 
+[20181107 Future Now 관련 발표 자료](http://)<br>
+
 #201807024 Azure Live HOL(Hands On Labs)
 
 
