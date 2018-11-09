@@ -2,7 +2,7 @@
 AI와 관련된 정보들을 정리하고 있습니다. 
 
 #공유자료 
-[20181107 Future Now 관련 발표 자료](http://)<br>
+[20181107 Future Now 관련 발표 자료](https://github.com/KoreaEva/AI/blob/master/Presentation/20181107%20FutureNow.md)<br>
 
 #201807024 Azure Live HOL(Hands On Labs)
 
