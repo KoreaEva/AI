@@ -8,6 +8,15 @@ AI와 관련된 정보들을 정리하고 있습니다.
 
 ## 사전 학습 자료
 
+[MLOps ep1 MLOps가 뭐길래](https://youtu.be/q2N6NZKxipg)<br>
+[MLOps ep2 데이터 준비](https://youtu.be/zyGYnYZaUEk)<br>
+[MLOps ep3 실험학습](https://youtu.be/ceGwH-sho2A)<br>
+[MLOps ep4 모델해석](https://youtu.be/LKk3bD8muhs)<br>
+[MLOps ep5 배포 서빙](https://youtu.be/DMwMmTKA2bk)<br>
+[MLOps ep6 MLOps in Action 엿보기](https://youtu.be/HvfZO9uc_3g)<br>
+[AI MLOps DevOps 실무구축기](https://youtu.be/rHAlfGAcX5M)<br>
+
+
 ### 파이썬 강좌 (영욱 스튜디오)
 [Python 강좌 모음](/Learn/Python.md)<br>
 
