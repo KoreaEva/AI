@@ -20,6 +20,13 @@ AI와 관련된 정보들을 정리하고 있습니다.
 ### 파이썬 강좌 (영욱 스튜디오)
 [Python 강좌 모음](/Learn/Python.md)<br>
 
+### Numpy, Pandas, Matplotlib 강좌 
+[파이썬 머신러닝 강의 02-1 - 파이썬 NumPy 소개](https://youtu.be/CbzWzX2LNgM)<br>
+[파이썬 머신러닝 강의 02-2 - 파이썬 NumPy 주요 함수 및 기능 정리](https://youtu.be/rfTin5JeAas)<br>
+[파이썬 머신러닝 강의 02-3 - 파이썬 Pandas 소개](https://youtu.be/LEIFcq7bUc8)<br>
+[파이썬 머신러닝 강의 02-4 - 파이썬 Pandas 주요 함수 및 기능 정리](https://youtu.be/2XLQhMOjecc)<br>
+[파이썬 머신러닝 강의 02-5 - 파이썬 NumPy, Pandas 주요내용 정리](https://youtu.be/JV0BWpXXEZM)<br>
+
 ### Git, Github 강좌
 
 [1.Git 시작하기](https://youtu.be/JZJQ4_8XoPM)<br>
